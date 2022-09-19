@@ -12,7 +12,7 @@ module.exports = {
   "events": "^1.0.0",
   "@tradle/react-native-http": "^2.0.0",
   "https-browserify": "~0.0.0",
-  "react-native-os": "^1.0.1",
+  "react-native-os": "^1.2.6",
   "path-browserify": "0.0.0",
   "process": "^0.11.0",
   "punycode": "^1.2.4",
@@ -25,8 +25,9 @@ module.exports = {
   "string_decoder": "~0.10.25",
   "timers-browserify": "^1.0.1",
   "tty-browserify": "0.0.0",
-  "url": "~0.10.1",
-  "util": "~0.10.3",
-  "react-native-tcp": "^3.2.1",
+  "temp-aqsd-rn-nodeify-combined-url": "^0.0.0",
+  "util": "~0.12.4",
+  "react-native-tcp-socket": "^6.0.1",
+  "temp-aqsd-rn-nodeify-tls": "^0.0.0",
   "vm-browserify": "0.0.4"
 }

@@ -4,7 +4,7 @@
   "constants": "constants-browserify",
   "crypto": "react-native-crypto",
   "dns": "dns.js",
-  "net": "react-native-tcp",
+  "net": "react-native-tcp-socket",
   "domain": "domain-browser",
   "http": "@tradle/react-native-http",
   "https": "https-browserify",
@@ -21,6 +21,7 @@
   "stream": "stream-browserify",
   "timers": "timers-browserify",
   "tty": "tty-browserify",
-  "vm": "vm-browserify",
-  "tls": false
+  "tls": "temp-aqsd-rn-nodeify-tls",
+  "url": "temp-aqsd-rn-nodeify-combined-url",
+  "vm": "vm-browserify"
 }

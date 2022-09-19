@@ -1,4 +1,4 @@
-# rn-nodeify
+# rn-nodeify (amqplib supporting fork)
 
 Run after npm install and you can use node core modules and npm modules that use them in your React Native app.
 

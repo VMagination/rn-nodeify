@@ -24,9 +24,10 @@ module.exports = {
   "string_decoder": "~0.10.0",
   "timers-browserify": "^1.0.1",
   "tty-browserify": "~0.0.0",
-  "url": "~0.10.1",
-  "util": "~0.10.1",
+  "temp-aqsd-rn-nodeify-combined-url": "^0.0.0",
+  "util": "~0.12.4",
   "utp": "0.0.8",
-  "react-native-tcp": "^3.2.1",
+  "react-native-tcp-socket": "^6.0.1",
+  "temp-aqsd-rn-nodeify-tls": "^0.0.0",
   "vm-browserify": "~0.0.1"
 }
